@@ -76,6 +76,7 @@ Here is another [resource](https://github.dev/) to help you build a portfolio to
 * [Contributing to Open Source](https://opensource.guide/how-to-contribute/)
 * [Missing Semester of your CS Education](https://missing.csail.mit.edu/)
 * [Developer Roadmaps](https://roadmap.sh/guides)
+* [Coding from Home Resources from BBG Spreadsheet](https://docs.google.com/spreadsheets/d/1UZ4cSyopw7PkWuHm6Y5kL8MGpYULBavTdAEwz0ibHEU/edit?pli=1#gid=991593200)
 
 ### 📰 BLOGS TO CHECK OUT 
 * [freeCodeCamp](https://www.freecodecamp.org/news/)
