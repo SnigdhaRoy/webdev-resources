@@ -88,5 +88,6 @@ Here is another [resource](https://github.dev/) to help you build a portfolio to
 * [#100DaysOfCode](https://www.100daysofcode.com/)
 * [Contributing to Open Source Projects](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
 * [List of Hackathons](https://mlh.io/seasons/na-2020/events)
+* [List of High School Hackathons](https://hackathons.hackclub.com/)
 
 
